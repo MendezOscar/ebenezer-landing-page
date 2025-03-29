@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "Ebenezer - Remodeling & Painting",
+    "paragraph": "Transforming homes with exceptional remodeling and painting services, since 2017, we have been dedicated to providing homeowners with high-quality remodeling and painting services that exceed their expectations."
+  },
+  "About": {
+    "paragraph": "Our commitment is to satisfied all your needs related to the building trend and customer satisfaction. We offer you the best experience on any home renovation or general construction. The home improvement techniques change to make the life easier for you, we adopt those techniques to delivery the best experience for you!",
+    "Why": [
+      "Integrity",
+      "Excellence",
+      "Responsibility.",
+      "Innovation"
+    ],
+    "Why2": [
+      "Adaptability",
+      "Honesty",
+      "Credibility",
+      "Commitment"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Interior Painting",
+      "text": "Interior paint color can define a space, transform a room, or even say something about the personality of its occupants."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Exterior Painting",
+      "text": "Exterior painting serves two purposes: It helps create a protective barrier for your home’s exterior, and it can transform the overall aesthetic of your home."
+    },
+    {
+      "icon": "fa fa-gavel",
+      "name": "Carpentry",
+      "text": "Paint can create drama in a space, but so can well-designed trim or molding. Our carpentry and molding installation services can transform your room from ordinary to extraordinary."
+    },
+    {
+      "icon": "fa fa-building-o",
+      "name": "Remodeling",
+      "text": "Is fundamental to transform an everyday space into a personal sanctuary. We understand that every detail counts, from the selection of materials to the perfect combination of colors and textures. ."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Commercial Painting",
+      "text": "The appearance of a work environment matters considerably. Well-applied paint will convey a sense of professionalism and even affect how employees feel."
+    },
+    {
+      "icon": "fa fa-tint",
+      "name": "Color Consultations",
+      "text": "Color selection is an important – but sometimes challenging – part of any painting project. It’s not always easy to select the right color for your project, whether it’s one room or an entire house."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/usuario.png",
+      "text": "After working on several small and large projects with the team at Ebenezer, I am happy to write this positive review and recommend them as dependable and fair priced professionals.",
+      "name": "Sam Majidi"
+    },
+    {
+      "img": "img/testimonials/usuario2.png",
+      "text": "I am completely satisfied with the remodeling and painting service I received. From the first moment, the team was very professional, attentive and always willing to listen to my ideas and needs. The process was fast, efficient and the result exceeded my expectations.",
+      "name": "Rey J. Martinez"
+    },
+    {
+      "img": "img/testimonials/usuario3.png",
+      "text": "The paint job is impeccable, the colors and finishes are exactly what I imagined. The remodeling of the spaces has completely transformed my home, giving it a fresh and modern feel.",
+      "name": "Jonathan McGoran"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "12002 centerhill st , Silver Spring, MD, United States, Maryland",
+    "phone": "+1 301-383-5080",
+    "email": "ebenezerconstriction1989@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100083190918739",
+    "twitter": "https://www.instagram.com/ebenezer_remodeling1989/",
+    "youtube": "https://wa.link/noft0a"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-thumbs-o-up",
+      "title": "Integrity",
+      "text": "Integrity is one of the core values that guides each of our services. We are committed to acting with complete honesty, transparency and ethics in all our interactions with customers, suppliers and employees. This means providing clear, truthful and complete information without hiding details or promising what we cannot deliver."
+    },
+    {
+      "icon": "fa fa-star",
+      "title": "Innovation",
+      "text": "Innovation is a key pillar that drives the way we do business. We are committed to constantly seeking new ideas, technologies and creative approaches to improve our services and provide more efficient, effective and customized solutions to meet the changing needs of our customers.."
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Quality",
+      "text": "We pride ourselves on providing the highest quality services, always focused on meeting our clients' needs and expectations. We are committed to providing effective, personalized and timely solutions based on a deep understanding of each client's requirements and the highest standards of excellence."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Equity",
+      "text": "We are committed to providing a service based on equity, ensuring that all of our clients are treated fairly, inclusively, and respectfully, regardless of their background, gender, age, or any other personal characteristic. We believe that every client deserves the same quality of care and the same opportunities to access our services."
+    }
+  ]
+}
