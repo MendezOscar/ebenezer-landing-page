@@ -8,14 +8,13 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Each image showcases Ebenezer Remodeling And Painting dedication to precision, exceptional craftsmanship, and the outstanding results we've delivered for our clients. Explore examples of our work and find inspiration for your next project!
           </p>
         </div>
         <div className="row">
           <div className="portfolio-items">
             {props.data
-              ? props.data.map((d, i) => (
+               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
                     className="col-sm-6 col-md-4 col-lg-4"
